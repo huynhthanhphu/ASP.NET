@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\APS.NET\\huynhthanhphu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\dtos\\productdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\dtos\\productdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\model\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\model\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\dtos\\bannerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\dtos\\bannerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\dtos\\brandcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\dtos\\brandcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\dtos\\bannercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\dtos\\bannercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\controllers\\topicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\controllers\\topicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\huynhthanhphu.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\huynhthanhphu.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|e:\\aps.net\\huynhthanhphu\\huynhthanhphu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{229FECA6-C0FF-40A8-A629-7267C71FCCF6}|huynhthanhphu\\huynhthanhphu.csproj|solutionrelative:huynhthanhphu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BannerController.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Controllers\\BannerController.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\Controllers\\BannerController.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Controllers\\BannerController.cs",
+              "RelativeToolTip": "huynhthanhphu\\Controllers\\BannerController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwEcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:04:41.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "huynhthanhphu\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA3wBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:43:28.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\Model\\Product.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Model\\Product.cs",
+              "RelativeToolTip": "huynhthanhphu\\Model\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:43:48.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\DTOs\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\DTOs\\ProductCreateDto.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\DTOs\\ProductCreateDto.cs",
+              "RelativeToolTip": "huynhthanhphu\\DTOs\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:47:32.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "huynhthanhphu\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:14:19.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\Controllers\\BrandController.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "huynhthanhphu\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:23:19.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDetailDto.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\DTOs\\ProductDetailDto.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\DTOs\\ProductDetailDto.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\DTOs\\ProductDetailDto.cs",
+              "RelativeToolTip": "huynhthanhphu\\DTOs\\ProductDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:09:57.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Model\\Banner.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\Model\\Banner.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Model\\Banner.cs",
+              "RelativeToolTip": "huynhthanhphu\\Model\\Banner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:00:51.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BannerUpdateDto.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\DTOs\\BannerUpdateDto.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\DTOs\\BannerUpdateDto.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\DTOs\\BannerUpdateDto.cs",
+              "RelativeToolTip": "huynhthanhphu\\DTOs\\BannerUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:03:29.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "huynhthanhphu\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Properties\\launchSettings.json",
+              "RelativeToolTip": "huynhthanhphu\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T11:14:05.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BrandCreateDto.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\DTOs\\BrandCreateDto.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\DTOs\\BrandCreateDto.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\DTOs\\BrandCreateDto.cs",
+              "RelativeToolTip": "huynhthanhphu\\DTOs\\BrandCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T13:00:01.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BannerCreateDto.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\DTOs\\BannerCreateDto.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\DTOs\\BannerCreateDto.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\DTOs\\BannerCreateDto.cs",
+              "RelativeToolTip": "huynhthanhphu\\DTOs\\BannerCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:02:54.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\Controllers\\CategoriesController.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "huynhthanhphu\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwEgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:19:19.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\Model\\Category.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Model\\Category.cs",
+              "RelativeToolTip": "huynhthanhphu\\Model\\Category.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:03:04.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Program.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\Program.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Program.cs",
+              "RelativeToolTip": "huynhthanhphu\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwJMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:51:05.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "huynhthanhphu\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:26:00.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Model\\Brand.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\Model\\Brand.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Model\\Brand.cs",
+              "RelativeToolTip": "huynhthanhphu\\Model\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:32:56.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TopicsController.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Controllers\\TopicsController.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\Controllers\\TopicsController.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Controllers\\TopicsController.cs",
+              "RelativeToolTip": "huynhthanhphu\\Controllers\\TopicsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:53:17.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "huynhthanhphu\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:13:41.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "huynhthanhphu.csproj.Backup.tmp",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\huynhthanhphu.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "huynhthanhphu\\huynhthanhphu.csproj.Backup.tmp",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\huynhthanhphu.csproj.Backup.tmp",
+              "RelativeToolTip": "huynhthanhphu\\huynhthanhphu.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-25T09:15:27.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "huynhthanhphu\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:07:53.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "huynhthanhphu\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:00:42.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Register.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Model\\Register.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\Model\\Register.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Model\\Register.cs",
+              "RelativeToolTip": "huynhthanhphu\\Model\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:09:17.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\DTOs\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\DTOs\\ProductUpdateDto.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\DTOs\\ProductUpdateDto.cs",
+              "RelativeToolTip": "huynhthanhphu\\DTOs\\ProductUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:48:03.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Model\\User.cs",
+              "RelativeDocumentMoniker": "huynhthanhphu\\Model\\User.cs",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\Model\\User.cs",
+              "RelativeToolTip": "huynhthanhphu\\Model\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:50:32.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\appsettings.json",
+              "RelativeDocumentMoniker": "huynhthanhphu\\appsettings.json",
+              "ToolTip": "E:\\APS.NET\\huynhthanhphu\\huynhthanhphu\\appsettings.json",
+              "RelativeToolTip": "huynhthanhphu\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T11:13:46.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
